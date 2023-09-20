@@ -1,0 +1,9 @@
+{
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "expoServerNgrokUrl": "https://kt-kdd.anonymous.pocketcommerce.exp.direct",
+  "packagerNgrokUrl": "https://kt-kdd.anonymous.pocketcommerce.exp.direct",
+  "ngrokPid": 8560,
+  "packagerPid": null,
+  "webpackServerPort": null
+}
